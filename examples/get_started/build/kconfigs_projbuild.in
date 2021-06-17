@@ -1,0 +1,6 @@
+source "D:/programmeFiles/esp-idf/components/app_update/Kconfig.projbuild"
+source "D:/programmeFiles/esp-idf/components/bootloader/Kconfig.projbuild"
+source "D:/programmeFiles/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "D:/programmeFiles/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/programmeFiles/esp-idf/projet_PIR/esp-skainet/components/esp-sr/Kconfig.projbuild"
+source "D:/programmeFiles/esp-idf/projet_PIR/esp-skainet/components/hardware_driver/Kconfig.projbuild"

@@ -1,0 +1,11 @@
+turn on the light
+turn off the light
+lighting mode
+reading mode
+red mode
+blue mode
+yellow mode
+light mode
+dark mode
+turn on
+turn off
