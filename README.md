@@ -5,6 +5,8 @@
  
  In this project you can control the LED on the board LyraT by saying "Turn on the light." and "Turn off the light". However, with Skainet there are many more things you can do.
  
+## Introduction
+ 
 ## Preparation
 * idf environment
 * ESP32-LyraT
