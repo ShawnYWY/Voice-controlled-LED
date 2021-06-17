@@ -1,1 +1,0 @@
-.. include:: ../../../en/api-guides/esp-ble-mesh/ble-mesh-index.rst
