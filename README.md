@@ -20,7 +20,7 @@
   
 * Navigate to folder 
  
-  In your cmd window type : ```cd Voice-controlled-LED/esp-skainet/examples/get_started```
+  In your cmd window type : ```cd Voice-controlled-LED/Skainet/examples/get_started```
 
 * Compiler and flash the project
 
