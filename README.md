@@ -3,6 +3,8 @@
  
  This project was implemented on [ESP32-LyraT](https://www.espressif.com/en/products/devkits/esp-audio-devkits)
  
+ Wake word : "Hi Jeson!"
+ 
  In this project you can control the LED on the board LyraT by saying "Turn on the light." and "Turn off the light". However, with Skainet there are many more things you can do.
  
 ## Introduction
